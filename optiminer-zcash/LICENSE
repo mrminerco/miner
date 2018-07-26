@@ -1,0 +1,44 @@
+Copyright (c) 2016 Optiminer.
+
+You are allowed to run this program on any number of machines.
+
+The miner uses a small amount of the GPU time to support the developer
+(unless the --nodevfee option is used where it runs a bit slower). By using
+this software you agree to support the developer in this way. You agree to not
+take any actions to disable the fee (except using --nodevfee), to remove or
+divert the fee mining time or to redirect the dev fee to a different account.
+
+Modification or disassembling of the program is disallowed.
+
+Distribution to 3rd parties is not permitted. 
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+This software contains following open source parts:
+- Sha256
+  Copyright (c) 2014 The Bitcoin Core developers
+  Distributed under the MIT software license, see the accompanying
+  file COPYING or http://www.opensource.org/licenses/mit-license.php.
+
+- TCLAP
+  Copyright (c) 2003 Michael E. Smoot
+
+- spdlog
+  Copyright (c) 2016 Gabi Melman.    
+ 
+- OpenSSL
+  Copyright (c) 1998-2016 The OpenSSL Project.  All rights reserved.
+  This product includes software developed by the OpenSSL Project
+  for use in the OpenSSL Toolkit (http://www.openssl.org/)".
+  See 'openssl-license.txt' for the full license.
+  
+- jsoncpp
+  Copyright (c) 2007-2010 Baptiste Lepilleur
+  Distributed under the MIT software license, see the accompanying
+  file COPYING or http://www.opensource.org/licenses/mit-license.php.
