@@ -1,6 +1,9 @@
-# miners
-Mr.Miner OS Miners
+# Mr.Miner Miners
+You can use all of those miners in Mr.Miner OS.
 
 # Miner List
-* Claymore Dual ETH v11.9
-...
+
+| Miner | Version |
+| ------------- |-------------|
+| Claymore Dual ETH | v11.9 |
+| ccminer-tpruvot | v2.2.5 |
