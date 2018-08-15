@@ -1,6 +1,0 @@
-23.07.2018 17:12:45 INFO: Target: 0320000000000000...
-23.07.2018 17:12:45 INFO: Detected new work: edf4
-23.07.2018 17:12:46 CUDA: Device: 0 GeForce GTX 1060 6GB, 6077 MB PCI: 0000:25:00.0
-23.07.2018 17:12:54 INFO: Detected new work: edf5
-23.07.2018 17:12:54 INFO: GPU0 Accepted share 64ms [A:1, R:0]
-23.07.2018 17:12:55 INFO: GPU0 Accepted share 66ms [A:2, R:0]

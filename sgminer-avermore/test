@@ -1,5 +1,0 @@
-[13:59:02] Started avermore 1.4.1
-[13:59:02] * using Jansson 2.7
-[13:59:02] Error -1001: clGetPlatformsIDs failed (no OpenCL SDK installed?)
-[13:59:02] clDevicesNum returned error, no GPUs usable
-[13:59:02] All devices disabled, cannot mine!
