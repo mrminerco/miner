@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo /root/mrminer/tool/reboot.sh
+sudo /root/mrminer/tool/reboot
