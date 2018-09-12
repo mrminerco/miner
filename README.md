@@ -14,7 +14,7 @@ You can use all of those miners in  Mr.Miner [Linux Mining OS](https://mrminer.c
 | Ccminer-klaust | v8.21 | ccminer for nVidia GPUs |
 | Ccminer-tpruvot | v2.5.5 | ccminer for nVidia GPUs by tpruvot@github |
 | Claymore ETH | v11.9 | Claymore's Dual Ethereum AMD/NVIDIA Miner |
-| Claymore XMR | v11.2 | Claymore's CryptoNote AMD GPU Miner |
+| Claymore XMR | v11.3 | Claymore's CryptoNote AMD GPU Miner |
 | Claymore ZEC | v12.6 | Claymore's ZCash AMD GPU Miner |
 | CryptoDredge | v0.8.3 | NVIDIA GPU Miner |
 | CuBalloon | v1.0.0 | cuda miner supporting balloon128/4 |
