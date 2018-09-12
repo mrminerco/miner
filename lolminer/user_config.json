@@ -1,10 +1,10 @@
 {
 	"DEFAULTS" : {
 		"DEVICES" : "AUTO", 	
-		"APIPORT" : 8080
+		"APIPORT" : 0
 	},
 
-	"EXAMPLE1" : 
+	"EXAMPLE_BTCZ" : 
 	{
 		"COIN" : "BTCZ",
 		"POOLS" : [
@@ -15,7 +15,7 @@
 		]
 	},
 
-	"EXAMPLE2" : 
+	"EXAMPLE_BTG" : 
 	{
 		"COIN" : "BTG",
 		"SHORTSTATS" : 10, 
@@ -33,14 +33,24 @@
 		]
 	},	
 
-	"EXAMPLE3" : 
+	"EXAMPLE_MNX" : 
 	{
 		"COIN" : "MNX",
-		"WORKBATCH" : "HIGH", 
 		"POOLS" : [
 			{"POOL" : "eu.minexpool.nl",
 			 "PORT" : "9999",
 			 "USER" : "XQZoBeGPZJoLhTdkcF8bScsNH5Wyesd9g4.lolMiner",
+			 "PASS" : "x"}
+		]
+	},
+
+	"EXAMPLE_ZERO" : 
+	{
+		"COIN" : "ZER",
+		"POOLS" : [
+			{"POOL" : "zero.easymine.rocks",
+			 "PORT" : "2000",
+			 "USER" : "t1XEbhjnSEitiV2DX8zsLBNqe5zmozt5sP4.lolMiner",
 			 "PASS" : "x"}
 		]
 	}

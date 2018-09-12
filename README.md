@@ -21,7 +21,7 @@ You can use all of those miners in  Mr.Miner [Linux Mining OS](https://mrminer.c
 | EthMiner | v0.16.0.dev1 | Ethereum miner with OpenCL, CUDA |
 | EWBF Zcash | v0.3.4b | EWBF's Zcash CUDA Miner  |
 | EWBF Equihash | v0.5 | EWBF's Equihash CUDA miner |
-| lolMiner | v0.41 | Equihash 144.5, 96.5, OpenCL miner |
+| lolMiner | v0.43b | Equihash 144.5, 96.5, OpenCL miner |
 | Nevermore | v0.2.3 | nevermore nVidia GPUs by brian112358@github |
 | OptiminerZcash | v1.7.0 | GPU miner for Zcash. |
 | Sgminer-djm34 | v5.5.4-gm | A multi-algo GPU miner (sgminer fork) |
@@ -31,3 +31,4 @@ You can use all of those miners in  Mr.Miner [Linux Mining OS](https://mrminer.c
 | Xmrig-amd | v2.7.3-beta | XMRig is high performance Monero (XMR) OpenCL miner |
 | Xmrig-nvidia | v2.7.0-beta | XMRig is high performance Monero (XMR) NVIDIA miner |
 | Z-Enemy | v1.16 | Zealot/Enemy NVIDIA GPU miner |
+| ZM Miner | v0.6.1 | dstm's ZCASH/Equihash Cuda Miner |
