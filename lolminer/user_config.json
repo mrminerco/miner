@@ -1,0 +1,47 @@
+{
+	"DEFAULTS" : {
+		"DEVICES" : "AUTO", 	
+		"APIPORT" : 8080
+	},
+
+	"EXAMPLE1" : 
+	{
+		"COIN" : "BTCZ",
+		"POOLS" : [
+			{"POOL" : "mine-btcz-euro.equipool.1ds.us",
+			 "PORT" : "50061",
+			 "USER" : "t1dbQvbohSUAGE6dZpUYru7e18SCNVipVXY.lolMiner",
+			 "PASS" : "x"}
+		]
+	},
+
+	"EXAMPLE2" : 
+	{
+		"COIN" : "BTG",
+		"SHORTSTATS" : 10, 
+		"LONGSTATS" : 120,
+		"DIGITS" : 2,
+		"POOLS" : [
+			{"POOL" : "btg-eu.coinblockers.com",
+			 "PORT" : "5555",
+			 "USER" : "GV5SfFk6EX2PXVopwRHepaVAEPxJxhKceH.lolMiner",
+			 "PASS" : "x"},
+			{"POOL" : "btg.suprnova.cc",
+			 "PORT" : "8866",
+			 "USER" : "Lolliedieb.BitcoinGold",
+			 "PASS" : "x"}
+		]
+	},	
+
+	"EXAMPLE3" : 
+	{
+		"COIN" : "MNX",
+		"WORKBATCH" : "HIGH", 
+		"POOLS" : [
+			{"POOL" : "eu.minexpool.nl",
+			 "PORT" : "9999",
+			 "USER" : "XQZoBeGPZJoLhTdkcF8bScsNH5Wyesd9g4.lolMiner",
+			 "PASS" : "x"}
+		]
+	}
+}
