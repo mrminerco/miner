@@ -9,6 +9,7 @@ You can use all of those miners in  Mr.Miner [Linux Mining OS](https://mrminer.c
 | Aion Miner | v0.2.1 | Equihash 210,9 CPU&GPU Miner for AION |
 | Avermore | v1.4.1 | AMD miner for x16r/x16s (sgminer fork) |
 | Bminer | v10.2.0 | When Crypto-mining Made Fast |
+| Cast-XMR | v1.5.0 | CryptoNight mining for Vega GPUs |
 | Ccminer-djm34 | v0.0.2 | ccminer for nVidia GPUs by djm34 |
 | Ccminer-dumax | v0.9.3 | ccminer for nVidia GPUs by DumaxFr@github |
 | Ccminer-klaust | v8.21 | ccminer for nVidia GPUs |
