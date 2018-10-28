@@ -4,53 +4,18 @@
 		"APIPORT" : 0
 	},
 
-	"EXAMPLE_BTCZ" : 
-	{
-		"COIN" : "BTCZ",
-		"POOLS" : [
-			{"POOL" : "mine-btcz-euro.equipool.1ds.us",
-			 "PORT" : "50061",
-			 "USER" : "t1dbQvbohSUAGE6dZpUYru7e18SCNVipVXY.lolMiner",
-			 "PASS" : "x"}
-		]
-	},
 
 	"EXAMPLE_BTG" : 
 	{
 		"COIN" : "BTG",
-		"SHORTSTATS" : 10, 
-		"LONGSTATS" : 120,
-		"DIGITS" : 2,
 		"POOLS" : [
 			{"POOL" : "btg-eu.coinblockers.com",
-			 "PORT" : "5555",
-			 "USER" : "GV5SfFk6EX2PXVopwRHepaVAEPxJxhKceH.lolMiner",
+			 "PORT" : "3333",
+			 "USER" : "GJhxC7mi5zNVJ2YsGrRQRWyZBMEPqHS6RC.lolMiner",
 			 "PASS" : "x"},
 			{"POOL" : "btg.suprnova.cc",
 			 "PORT" : "8866",
 			 "USER" : "Lolliedieb.BitcoinGold",
-			 "PASS" : "x"}
-		]
-	},	
-
-	"EXAMPLE_MNX" : 
-	{
-		"COIN" : "MNX",
-		"POOLS" : [
-			{"POOL" : "eu.minexpool.nl",
-			 "PORT" : "9999",
-			 "USER" : "XQZoBeGPZJoLhTdkcF8bScsNH5Wyesd9g4.lolMiner",
-			 "PASS" : "x"}
-		]
-	},
-
-	"EXAMPLE_ZERO" : 
-	{
-		"COIN" : "ZER",
-		"POOLS" : [
-			{"POOL" : "zero.easymine.rocks",
-			 "PORT" : "2000",
-			 "USER" : "t1XEbhjnSEitiV2DX8zsLBNqe5zmozt5sP4.lolMiner",
 			 "PASS" : "x"}
 		]
 	}
