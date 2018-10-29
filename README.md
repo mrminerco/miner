@@ -6,7 +6,6 @@ You can use all of those miners in Mr.Miner [Linux Mining OS](https://mrminer.co
 
 | Miner | Version | Description |
 | ----------------- | ------------- | ------------- |
-| Aion Miner | v0.2.1 | Equihash 210,9 CPU&GPU Miner for AION |
 | Avermore | v1.4.1 | AMD miner for x16r/x16s (sgminer fork) |
 | Bminer | v10.5.0 | When Crypto-mining Made Fast |
 | Cast-XMR | v1.5.0 | CryptoNight mining for Vega GPUs |
@@ -17,11 +16,11 @@ You can use all of those miners in Mr.Miner [Linux Mining OS](https://mrminer.co
 | Claymore ETH | v11.9 | Claymore's Dual Ethereum AMD/NVIDIA Miner |
 | Claymore XMR | v11.3 | Claymore's CryptoNote AMD GPU Miner |
 | Claymore ZEC | v12.6 | Claymore's ZCash AMD GPU Miner |
-| CryptoDredge | v0.8.3 | NVIDIA GPU Miner |
+| CryptoDredge | v0.9.3 | NVIDIA GPU Miner |
 | CuBalloon | v1.0.0 | cuda miner supporting balloon128/4 |
 | EthMiner | v0.16.1 | Ethereum miner with OpenCL, CUDA |
 | EWBF Zcash | v0.3.4b | EWBF's Zcash CUDA Miner  |
-| EWBF Equihash | v0.5 | EWBF's Equihash CUDA miner |
+| EWBF Equihash | v0.6 | EWBF's Equihash CUDA miner |
 | lolMiner | v0.6 | Equihash 144.5, 96.5, OpenCL miner |
 | Nevermore | v0.2.3 | nevermore nVidia GPUs by brian112358@github |
 | OptiminerZcash | v1.7.0 | GPU miner for Zcash. |
