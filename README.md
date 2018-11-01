@@ -28,6 +28,7 @@ You can use all of those miners in Mr.Miner [Linux Mining OS](https://mrminer.co
 | Sgminer-djm34 | v5.5.4-gm | A multi-algo GPU miner (sgminer fork) |
 | Tdxminer | v0.2.2.2 | lyra2z/XZC Miner for AMD GPUs on Linux |
 | T-Rex Miner | v0.7.2 | T-Rex miner for modern Nvidia GPUs - Pascal & Maxwell |
+| WildRig-Multi | v0.12.7 | miner for AMD with multialgo support |
 | Xmr-stak  | v2.5.2 | Monero, Sumokoin, Aeon and other Cryptonote miner |
 | Xmrig-amd | v2.8.4 | XMRig is high performance Monero (XMR) OpenCL miner |
 | Xmrig-nvidia | v2.7.0-beta | XMRig is high performance Monero (XMR) NVIDIA miner |
