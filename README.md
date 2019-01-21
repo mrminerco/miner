@@ -33,5 +33,5 @@ You can use all of those miners in Mr.Miner [Linux Mining OS](https://mrminer.co
 | Xmr-stak  | v2.5.2 | Monero, Sumokoin, Aeon and other Cryptonote miner |
 | Xmrig-amd | v2.8.4 | XMRig is high performance Monero (XMR) OpenCL miner |
 | Xmrig-nvidia | v2.7.0-beta | XMRig is high performance Monero (XMR) NVIDIA miner |
-| Z-Enemy | v1.22 | Zealot/Enemy NVIDIA GPU miner |
+| Z-Enemy | v1.28 | Zealot/Enemy NVIDIA GPU miner |
 | ZM Miner | v0.6.2 | dstm's ZCASH/Equihash Cuda Miner |
