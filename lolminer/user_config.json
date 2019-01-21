@@ -4,19 +4,31 @@
 		"APIPORT" : 0
 	},
 
-
-	"EXAMPLE_BTG" : 
+	"EXAMPLE_LEAFPOOL" : 
 	{
-		"COIN" : "BTG",
+		"COIN" : "BEAM",
 		"POOLS" : [
-			{"POOL" : "btg-eu.coinblockers.com",
+			{"POOL" : "beam-eu.leafpool.com",
 			 "PORT" : "3333",
-			 "USER" : "GJhxC7mi5zNVJ2YsGrRQRWyZBMEPqHS6RC.lolMiner",
+			 "USER" : "beam_address.worker/my@email.com",
+			 "PASS" : "x"}
+		]
+	},
+
+	"EXAMPLE_FAILOVER_SPARK_BEAM" : 
+	{
+		"COIN" : "BEAM",
+		"POOLS" : [
+			{"POOL" : "beam-eu.sparkpool.com",
+			 "PORT" : "2222",
+			 "USER" : "beam_address.worker",
 			 "PASS" : "x"},
-			{"POOL" : "btg.suprnova.cc",
-			 "PORT" : "8866",
-			 "USER" : "Lolliedieb.BitcoinGold",
+			{"POOL" : "beam-pool.beepool.org",
+			 "PORT" : "9507",
+			 "USER" : "beam_address.worker",
 			 "PASS" : "x"}
 		]
 	}
+
+	
 }
