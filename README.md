@@ -7,7 +7,7 @@ You can use all of those miners in Mr.Miner [Linux Mining OS](https://mrminer.co
 | Miner | Version | Description |
 | ----------------- | ------------- | ------------- |
 | Avermore | v1.4.1 | AMD miner for x16r/x16s (sgminer fork) |
-| Bminer | v12.2.0 | When Crypto-mining Made Fast |
+| Bminer | v13.1.0 | When Crypto-mining Made Fast |
 | Cast-XMR | v1.6.6 | CryptoNight mining for Vega GPUs |
 | Ccminer-djm34 | v0.0.2 | ccminer for nVidia GPUs by djm34 |
 | Ccminer-dumax | v0.9.3 | ccminer for nVidia GPUs by DumaxFr@github |
